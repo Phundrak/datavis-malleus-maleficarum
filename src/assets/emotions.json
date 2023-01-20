@@ -1,0 +1,812 @@
+[
+  {
+    "id": 0,
+    "fragment": "p1q1",
+    "general": -0.307268,
+    "sadness": 0.112262,
+    "joy": 0.054063,
+    "fear": 0.089145,
+    "disgust": 0.08987,
+    "anger": 0.131422
+  },
+  {
+    "id": 1,
+    "fragment": "p1q2",
+    "general": -0.900125,
+    "sadness": 0.146167,
+    "joy": 0.039868,
+    "fear": 0.116523,
+    "disgust": 0.142237,
+    "anger": 0.081096
+  },
+  {
+    "id": 2,
+    "fragment": "p1q3",
+    "general": 0,
+    "sadness": 0.128094,
+    "joy": 0.10029,
+    "fear": 0.07887,
+    "disgust": 0.137403,
+    "anger": 0.053051
+  },
+  {
+    "id": 3,
+    "fragment": "p1q4",
+    "general": -0.518739,
+    "sadness": 0.144801,
+    "joy": 0.060235,
+    "fear": 0.014077,
+    "disgust": 0.166476,
+    "anger": 0.122802
+  },
+  {
+    "id": 4,
+    "fragment": "p1q5",
+    "general": 0.923656,
+    "sadness": 0.106589,
+    "joy": 0.154085,
+    "fear": 0.014898,
+    "disgust": 0.079473,
+    "anger": 0.06523
+  },
+  {
+    "id": 5,
+    "fragment": "p1q6",
+    "general": -0.927539,
+    "sadness": 0.140308,
+    "joy": 0.065177,
+    "fear": 0.019507,
+    "disgust": 0.167493,
+    "anger": 0.045107
+  },
+  {
+    "id": 6,
+    "fragment": "p1q7",
+    "general": 0.883582,
+    "sadness": 0.179103,
+    "joy": 0.126276,
+    "fear": 0.023174,
+    "disgust": 0.110603,
+    "anger": 0.045345
+  },
+  {
+    "id": 7,
+    "fragment": "p1q8",
+    "general": 0,
+    "sadness": 0.208882,
+    "joy": 0.04741,
+    "fear": 0.020714,
+    "disgust": 0.102711,
+    "anger": 0.19109
+  },
+  {
+    "id": 8,
+    "fragment": "p1q9",
+    "general": -0.50511,
+    "sadness": 0.146971,
+    "joy": 0.054163,
+    "fear": 0.040615,
+    "disgust": 0.15721,
+    "anger": 0.090518
+  },
+  {
+    "id": 9,
+    "fragment": "p1q10",
+    "general": 0,
+    "sadness": 0.100004,
+    "joy": 0.075153,
+    "fear": 0.015472,
+    "disgust": 0.197877,
+    "anger": 0.166508
+  },
+  {
+    "id": 10,
+    "fragment": "p1q11",
+    "general": -0.275896,
+    "sadness": 0.134043,
+    "joy": 0.028806,
+    "fear": 0.024501,
+    "disgust": 0.046441,
+    "anger": 0.190193
+  },
+  {
+    "id": 11,
+    "fragment": "p1q12",
+    "general": -0.775379,
+    "sadness": 0.178572,
+    "joy": 0.119889,
+    "fear": 0.045493,
+    "disgust": 0.105137,
+    "anger": 0.10953
+  },
+  {
+    "id": 12,
+    "fragment": "p1q13",
+    "general": -0.625397,
+    "sadness": 0.185332,
+    "joy": 0.038356,
+    "fear": 0.032595,
+    "disgust": 0.147566,
+    "anger": 0.101699
+  },
+  {
+    "id": 13,
+    "fragment": "p1q14",
+    "general": -0.973499,
+    "sadness": 0.229627,
+    "joy": 0.042598,
+    "fear": 0.020317,
+    "disgust": 0.12822,
+    "anger": 0.084182
+  },
+  {
+    "id": 14,
+    "fragment": "p1q15",
+    "general": -0.889608,
+    "sadness": 0.298803,
+    "joy": 0.029444,
+    "fear": 0.038235,
+    "disgust": 0.094079,
+    "anger": 0.191493
+  },
+  {
+    "id": 15,
+    "fragment": "p1q16",
+    "general": 0,
+    "sadness": 0.131268,
+    "joy": 0.163929,
+    "fear": 0.019738,
+    "disgust": 0.072601,
+    "anger": 0.06138
+  },
+  {
+    "id": 16,
+    "fragment": "p1q17",
+    "general": -0.990385,
+    "sadness": 0.262479,
+    "joy": 0.039897,
+    "fear": 0.012007,
+    "disgust": 0.027937,
+    "anger": 0.067094
+  },
+  {
+    "id": 17,
+    "fragment": "p1q18",
+    "general": -0.831735,
+    "sadness": 0.126211,
+    "joy": 0.049438,
+    "fear": 0.043403,
+    "disgust": 0.101167,
+    "anger": 0.094612
+  },
+  {
+    "id": 18,
+    "fragment": "p2q1",
+    "general": 0.956679,
+    "sadness": 0.121805,
+    "joy": 0.030199,
+    "fear": 0.035699,
+    "disgust": 0.135133,
+    "anger": 0.088532
+  },
+  {
+    "id": 19,
+    "fragment": "p2q1c1",
+    "general": 0.520979,
+    "sadness": 0.184325,
+    "joy": 0.053259,
+    "fear": 0.027896,
+    "disgust": 0.085289,
+    "anger": 0.052619
+  },
+  {
+    "id": 20,
+    "fragment": "p2q1c2",
+    "general": 0.873268,
+    "sadness": 0.145704,
+    "joy": 0.094653,
+    "fear": 0.021549,
+    "disgust": 0.091566,
+    "anger": 0.060256
+  },
+  {
+    "id": 21,
+    "fragment": "p2q1c3",
+    "general": 0,
+    "sadness": 0.21938,
+    "joy": 0.039045,
+    "fear": 0.053689,
+    "disgust": 0.103802,
+    "anger": 0.049896
+  },
+  {
+    "id": 22,
+    "fragment": "p2q1c4",
+    "general": -0.989893,
+    "sadness": 0.144947,
+    "joy": 0.113671,
+    "fear": 0.027634,
+    "disgust": 0.101031,
+    "anger": 0.062435
+  },
+  {
+    "id": 23,
+    "fragment": "p2q1c5",
+    "general": 0.26878,
+    "sadness": 0.189382,
+    "joy": 0.121066,
+    "fear": 0.014073,
+    "disgust": 0.063608,
+    "anger": 0.059883
+  },
+  {
+    "id": 24,
+    "fragment": "p2q1c6",
+    "general": -0.720655,
+    "sadness": 0.270122,
+    "joy": 0.0379,
+    "fear": 0.008987,
+    "disgust": 0.06445,
+    "anger": 0.114943
+  },
+  {
+    "id": 25,
+    "fragment": "p2q1c7",
+    "general": -0.963971,
+    "sadness": 0.215317,
+    "joy": 0.055036,
+    "fear": 0.020392,
+    "disgust": 0.065863,
+    "anger": 0.078968
+  },
+  {
+    "id": 26,
+    "fragment": "p2q1c8",
+    "general": 0,
+    "sadness": 0.130286,
+    "joy": 0.082344,
+    "fear": 0.032956,
+    "disgust": 0.084531,
+    "anger": 0.172861
+  },
+  {
+    "id": 27,
+    "fragment": "p2q1c9",
+    "general": -0.606841,
+    "sadness": 0.139121,
+    "joy": 0.041665,
+    "fear": 0.114579,
+    "disgust": 0.10407,
+    "anger": 0.064916
+  },
+  {
+    "id": 28,
+    "fragment": "p2q1c10",
+    "general": -0.856877,
+    "sadness": 0.23842,
+    "joy": 0.040901,
+    "fear": 0.027908,
+    "disgust": 0.165344,
+    "anger": 0.050035
+  },
+  {
+    "id": 29,
+    "fragment": "p2q1c11",
+    "general": -0.987811,
+    "sadness": 0.200235,
+    "joy": 0.055649,
+    "fear": 0.027572,
+    "disgust": 0.165492,
+    "anger": 0.138233
+  },
+  {
+    "id": 30,
+    "fragment": "p2q1c12",
+    "general": -0.789007,
+    "sadness": 0.29095,
+    "joy": 0.047076,
+    "fear": 0.031362,
+    "disgust": 0.110318,
+    "anger": 0.068028
+  },
+  {
+    "id": 31,
+    "fragment": "p2q1c13",
+    "general": -0.988867,
+    "sadness": 0.286127,
+    "joy": 0.038587,
+    "fear": 0.036512,
+    "disgust": 0.128955,
+    "anger": 0.087859
+  },
+  {
+    "id": 32,
+    "fragment": "p2q1c14",
+    "general": 0,
+    "sadness": 0.163088,
+    "joy": 0.050922,
+    "fear": 0.028862,
+    "disgust": 0.10359,
+    "anger": 0.090462
+  },
+  {
+    "id": 33,
+    "fragment": "p2q1c15",
+    "general": 0,
+    "sadness": 0.177815,
+    "joy": 0.058958,
+    "fear": 0.089672,
+    "disgust": 0.195855,
+    "anger": 0.120926
+  },
+  {
+    "id": 34,
+    "fragment": "p2q1c16",
+    "general": 0,
+    "sadness": 0.205683,
+    "joy": 0.050525,
+    "fear": 0.009163,
+    "disgust": 0.157344,
+    "anger": 0.131769
+  },
+  {
+    "id": 35,
+    "fragment": "p2q2",
+    "general": -0.85072,
+    "sadness": 0.156989,
+    "joy": 0.035798,
+    "fear": 0.034647,
+    "disgust": 0.148885,
+    "anger": 0.085323
+  },
+  {
+    "id": 36,
+    "fragment": "p2q2c1",
+    "general": -0.807635,
+    "sadness": 0.185158,
+    "joy": 0.051096,
+    "fear": 0.081933,
+    "disgust": 0.200317,
+    "anger": 0.087621
+  },
+  {
+    "id": 37,
+    "fragment": "p2q2c2",
+    "general": 0.498435,
+    "sadness": 0.203153,
+    "joy": 0.049531,
+    "fear": 0.031795,
+    "disgust": 0.041197,
+    "anger": 0.131386
+  },
+  {
+    "id": 38,
+    "fragment": "p2q2c3",
+    "general": 0,
+    "sadness": 0.232713,
+    "joy": 0.084905,
+    "fear": 0.002002,
+    "disgust": 0.054061,
+    "anger": 0.058576
+  },
+  {
+    "id": 39,
+    "fragment": "p2q2c4",
+    "general": -0.784674,
+    "sadness": 0.162029,
+    "joy": 0.033691,
+    "fear": 0.010165,
+    "disgust": 0.06727,
+    "anger": 0.239352
+  },
+  {
+    "id": 40,
+    "fragment": "p2q2c5",
+    "general": -0.466254,
+    "sadness": 0.181247,
+    "joy": 0.053111,
+    "fear": 0.031354,
+    "disgust": 0.126023,
+    "anger": 0.063849
+  },
+  {
+    "id": 41,
+    "fragment": "p2q2c6",
+    "general": 0.509918,
+    "sadness": 0.085237,
+    "joy": 0.058858,
+    "fear": 0.076029,
+    "disgust": 0.16565,
+    "anger": 0.079916
+  },
+  {
+    "id": 42,
+    "fragment": "p2q2c7",
+    "general": -0.742098,
+    "sadness": 0.106931,
+    "joy": 0.071768,
+    "fear": 0.044014,
+    "disgust": 0.183386,
+    "anger": 0.106137
+  },
+  {
+    "id": 43,
+    "fragment": "p2q2c8",
+    "general": -0.877639,
+    "sadness": 0.267906,
+    "joy": 0.092987,
+    "fear": 0.058934,
+    "disgust": 0.104298,
+    "anger": 0.088757
+  },
+  {
+    "id": 44,
+    "fragment": "p3c0",
+    "general": 0,
+    "sadness": 0.189152,
+    "joy": 0.088102,
+    "fear": 0.027566,
+    "disgust": 0.067833,
+    "anger": 0.079696
+  },
+  {
+    "id": 45,
+    "fragment": "p3intro",
+    "general": 0,
+    "sadness": 0.177158,
+    "joy": 0.077225,
+    "fear": 0.012368,
+    "disgust": 0.131959,
+    "anger": 0.179017
+  },
+  {
+    "id": 46,
+    "fragment": "p3q1",
+    "general": -0.390288,
+    "sadness": 0.146049,
+    "joy": 0.044542,
+    "fear": 0.04116,
+    "disgust": 0.019696,
+    "anger": 0.073256
+  },
+  {
+    "id": 47,
+    "fragment": "p3q2",
+    "general": 0,
+    "sadness": 0.267044,
+    "joy": 0.057458,
+    "fear": 0.093362,
+    "disgust": 0.018391,
+    "anger": 0.131166
+  },
+  {
+    "id": 48,
+    "fragment": "p3q3",
+    "general": 0,
+    "sadness": 0.055833,
+    "joy": 0.054435,
+    "fear": 0.12483,
+    "disgust": 0.063586,
+    "anger": 0.144768
+  },
+  {
+    "id": 49,
+    "fragment": "p3q4",
+    "general": 0,
+    "sadness": 0.135688,
+    "joy": 0.042371,
+    "fear": 0.070476,
+    "disgust": 0.102286,
+    "anger": 0.122609
+  },
+  {
+    "id": 50,
+    "fragment": "p3q5",
+    "general": -0.876076,
+    "sadness": 0.239162,
+    "joy": 0.013131,
+    "fear": 0.036282,
+    "disgust": 0.049265,
+    "anger": 0.25144
+  },
+  {
+    "id": 51,
+    "fragment": "p3q6",
+    "general": -0.919651,
+    "sadness": 0.102202,
+    "joy": 0.096999,
+    "fear": 0.085945,
+    "disgust": 0.041704,
+    "anger": 0.206186
+  },
+  {
+    "id": 52,
+    "fragment": "p3q7",
+    "general": -0.892746,
+    "sadness": 0.233939,
+    "joy": 0.054074,
+    "fear": 0.04994,
+    "disgust": 0.02047,
+    "anger": 0.24044
+  },
+  {
+    "id": 53,
+    "fragment": "p3q8",
+    "general": 0,
+    "sadness": 0.217344,
+    "joy": 0.033297,
+    "fear": 0.064584,
+    "disgust": 0.062187,
+    "anger": 0.225006
+  },
+  {
+    "id": 54,
+    "fragment": "p3q9",
+    "general": 0,
+    "sadness": 0.209158,
+    "joy": 0.018019,
+    "fear": 0.164798,
+    "disgust": 0.037711,
+    "anger": 0.076341
+  },
+  {
+    "id": 55,
+    "fragment": "p3q10",
+    "general": 0,
+    "sadness": 0.179054,
+    "joy": 0.013728,
+    "fear": 0.034328,
+    "disgust": 0.145457,
+    "anger": 0.26781
+  },
+  {
+    "id": 56,
+    "fragment": "p3q11",
+    "general": -0.931784,
+    "sadness": 0.11408,
+    "joy": 0.072478,
+    "fear": 0.0515,
+    "disgust": 0.062562,
+    "anger": 0.26564
+  },
+  {
+    "id": 57,
+    "fragment": "p3q12",
+    "general": -0.792371,
+    "sadness": 0.120762,
+    "joy": 0.103426,
+    "fear": 0.069634,
+    "disgust": 0.044602,
+    "anger": 0.122497
+  },
+  {
+    "id": 58,
+    "fragment": "p3q13",
+    "general": -0.986725,
+    "sadness": 0.213493,
+    "joy": 0.020969,
+    "fear": 0.035297,
+    "disgust": 0.03732,
+    "anger": 0.226978
+  },
+  {
+    "id": 59,
+    "fragment": "p3q14",
+    "general": 0.506311,
+    "sadness": 0.182472,
+    "joy": 0.121812,
+    "fear": 0.032191,
+    "disgust": 0.059162,
+    "anger": 0.19562
+  },
+  {
+    "id": 60,
+    "fragment": "p3q15",
+    "general": -0.812481,
+    "sadness": 0.259651,
+    "joy": 0.053939,
+    "fear": 0.020756,
+    "disgust": 0.14058,
+    "anger": 0.084762
+  },
+  {
+    "id": 61,
+    "fragment": "p3q16",
+    "general": -0.85104,
+    "sadness": 0.183747,
+    "joy": 0.092384,
+    "fear": 0.041624,
+    "disgust": 0.025987,
+    "anger": 0.095144
+  },
+  {
+    "id": 62,
+    "fragment": "p3q17",
+    "general": 0,
+    "sadness": 0.174506,
+    "joy": 0.108553,
+    "fear": 0.030024,
+    "disgust": 0.072239,
+    "anger": 0.139711
+  },
+  {
+    "id": 63,
+    "fragment": "p3q18",
+    "general": 0,
+    "sadness": 0.160588,
+    "joy": 0.031575,
+    "fear": 0.028813,
+    "disgust": 0.045855,
+    "anger": 0.165223
+  },
+  {
+    "id": 64,
+    "fragment": "p3q19",
+    "general": 0,
+    "sadness": 0.077662,
+    "joy": 0.046007,
+    "fear": 0.146318,
+    "disgust": 0.166258,
+    "anger": 0.168934
+  },
+  {
+    "id": 65,
+    "fragment": "p3q20",
+    "general": 0,
+    "sadness": 0.133324,
+    "joy": 0.030647,
+    "fear": 0.039516,
+    "disgust": 0.198577,
+    "anger": 0.198052
+  },
+  {
+    "id": 66,
+    "fragment": "p3q21",
+    "general": 0,
+    "sadness": 0.192839,
+    "joy": 0.033364,
+    "fear": 0.022014,
+    "disgust": 0.153157,
+    "anger": 0.136128
+  },
+  {
+    "id": 67,
+    "fragment": "p3q22",
+    "general": 0,
+    "sadness": 0.166352,
+    "joy": 0.032922,
+    "fear": 0.021523,
+    "disgust": 0.107853,
+    "anger": 0.217475
+  },
+  {
+    "id": 68,
+    "fragment": "p3q23",
+    "general": -0.533168,
+    "sadness": 0.15272,
+    "joy": 0.037308,
+    "fear": 0.082395,
+    "disgust": 0.065225,
+    "anger": 0.146946
+  },
+  {
+    "id": 69,
+    "fragment": "p3q24",
+    "general": 0,
+    "sadness": 0.082447,
+    "joy": 0.047198,
+    "fear": 0.059188,
+    "disgust": 0.059306,
+    "anger": 0.170791
+  },
+  {
+    "id": 70,
+    "fragment": "p3q25",
+    "general": 0,
+    "sadness": 0.132285,
+    "joy": 0.023567,
+    "fear": 0.095168,
+    "disgust": 0.10763,
+    "anger": 0.183143
+  },
+  {
+    "id": 71,
+    "fragment": "p3q26",
+    "general": -0.250075,
+    "sadness": 0.120241,
+    "joy": 0.034035,
+    "fear": 0.100005,
+    "disgust": 0.073272,
+    "anger": 0.219838
+  },
+  {
+    "id": 72,
+    "fragment": "p3q27",
+    "general": -0.846668,
+    "sadness": 0.147016,
+    "joy": 0.063158,
+    "fear": 0.020015,
+    "disgust": 0.038263,
+    "anger": 0.081352
+  },
+  {
+    "id": 73,
+    "fragment": "p3q28",
+    "general": -0.601455,
+    "sadness": 0.22276,
+    "joy": 0.047782,
+    "fear": 0.013366,
+    "disgust": 0.094577,
+    "anger": 0.12609
+  },
+  {
+    "id": 74,
+    "fragment": "p3q29",
+    "general": -0.992599,
+    "sadness": 0.219501,
+    "joy": 0.01377,
+    "fear": 0.02378,
+    "disgust": 0.133518,
+    "anger": 0.134782
+  },
+  {
+    "id": 75,
+    "fragment": "p3q30",
+    "general": -0.800415,
+    "sadness": 0.200657,
+    "joy": 0.08624,
+    "fear": 0.049156,
+    "disgust": 0.029345,
+    "anger": 0.113028
+  },
+  {
+    "id": 76,
+    "fragment": "p3q31",
+    "general": -0.748526,
+    "sadness": 0.222932,
+    "joy": 0.036618,
+    "fear": 0.013957,
+    "disgust": 0.076623,
+    "anger": 0.20126
+  },
+  {
+    "id": 77,
+    "fragment": "p3q32",
+    "general": -0.954839,
+    "sadness": 0.088169,
+    "joy": 0.054494,
+    "fear": 0.032108,
+    "disgust": 0.073934,
+    "anger": 0.099295
+  },
+  {
+    "id": 78,
+    "fragment": "p3q33",
+    "general": 0,
+    "sadness": 0.079642,
+    "joy": 0.054093,
+    "fear": 0.068828,
+    "disgust": 0.100896,
+    "anger": 0.240541
+  },
+  {
+    "id": 79,
+    "fragment": "p3q34",
+    "general": 0,
+    "sadness": 0.230475,
+    "joy": 0.021253,
+    "fear": 0.014003,
+    "disgust": 0.141842,
+    "anger": 0.091616
+  },
+  {
+    "id": 80,
+    "fragment": "p3q35",
+    "general": 0.340818,
+    "sadness": 0.201581,
+    "joy": 0.026491,
+    "fear": 0.010394,
+    "disgust": 0.100923,
+    "anger": 0.140445
+  }
+]

@@ -30,7 +30,7 @@ function init() {
     element.appendChild(number);
     let symbol = document.createElement("div");
     symbol.className = "symbol";
-    symbol.innerHTML = `<a href="/fragment/${link.fragment}" target="_blank">
+    symbol.innerHTML = `<a href="/fragment/${link.fragment}">
 <img src="/img/${link.fragment}.png"/>
 </a>`;
     element.appendChild(symbol);

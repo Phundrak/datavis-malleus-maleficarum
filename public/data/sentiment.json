@@ -1,0 +1,656 @@
+{
+  "sentiment": {
+    "document": {
+      "score": -0.307268,
+      "label": "negative"
+    }
+  }
+}
+{
+  "sentiment": {
+    "document": {
+      "score": -0.900125,
+      "label": "negative"
+    }
+  }
+}
+{
+  "sentiment": {
+    "document": {
+      "score": 0,
+      "label": "neutral"
+    }
+  }
+}
+{
+  "sentiment": {
+    "document": {
+      "score": -0.518739,
+      "label": "negative"
+    }
+  }
+}
+{
+  "sentiment": {
+    "document": {
+      "score": 0.923656,
+      "label": "positive"
+    }
+  }
+}
+{
+  "sentiment": {
+    "document": {
+      "score": -0.927539,
+      "label": "negative"
+    }
+  }
+}
+{
+  "sentiment": {
+    "document": {
+      "score": 0.883582,
+      "label": "positive"
+    }
+  }
+}
+{
+  "sentiment": {
+    "document": {
+      "score": 0,
+      "label": "neutral"
+    }
+  }
+}
+{
+  "sentiment": {
+    "document": {
+      "score": -0.50511,
+      "label": "negative"
+    }
+  }
+}
+{
+  "sentiment": {
+    "document": {
+      "score": 0,
+      "label": "neutral"
+    }
+  }
+}
+{
+  "sentiment": {
+    "document": {
+      "score": -0.275896,
+      "label": "negative"
+    }
+  }
+}
+{
+  "sentiment": {
+    "document": {
+      "score": -0.775379,
+      "label": "negative"
+    }
+  }
+}
+{
+  "sentiment": {
+    "document": {
+      "score": -0.625397,
+      "label": "negative"
+    }
+  }
+}
+{
+  "sentiment": {
+    "document": {
+      "score": -0.973499,
+      "label": "negative"
+    }
+  }
+}
+{
+  "sentiment": {
+    "document": {
+      "score": -0.889608,
+      "label": "negative"
+    }
+  }
+}
+{
+  "sentiment": {
+    "document": {
+      "score": 0,
+      "label": "neutral"
+    }
+  }
+}
+{
+  "sentiment": {
+    "document": {
+      "score": -0.990385,
+      "label": "negative"
+    }
+  }
+}
+{
+  "sentiment": {
+    "document": {
+      "score": -0.831735,
+      "label": "negative"
+    }
+  }
+}
+{
+  "sentiment": {
+    "document": {
+      "score": 0.956679,
+      "label": "positive"
+    }
+  }
+}
+{
+  "sentiment": {
+    "document": {
+      "score": 0.520979,
+      "label": "positive"
+    }
+  }
+}
+{
+  "sentiment": {
+    "document": {
+      "score": 0.873268,
+      "label": "positive"
+    }
+  }
+}
+{
+  "sentiment": {
+    "document": {
+      "score": 0,
+      "label": "neutral"
+    }
+  }
+}
+{
+  "sentiment": {
+    "document": {
+      "score": -0.989893,
+      "label": "negative"
+    }
+  }
+}
+{
+  "sentiment": {
+    "document": {
+      "score": 0.26878,
+      "label": "positive"
+    }
+  }
+}
+{
+  "sentiment": {
+    "document": {
+      "score": -0.720655,
+      "label": "negative"
+    }
+  }
+}
+{
+  "sentiment": {
+    "document": {
+      "score": -0.963971,
+      "label": "negative"
+    }
+  }
+}
+{
+  "sentiment": {
+    "document": {
+      "score": 0,
+      "label": "neutral"
+    }
+  }
+}
+{
+  "sentiment": {
+    "document": {
+      "score": -0.606841,
+      "label": "negative"
+    }
+  }
+}
+{
+  "sentiment": {
+    "document": {
+      "score": -0.856877,
+      "label": "negative"
+    }
+  }
+}
+{
+  "sentiment": {
+    "document": {
+      "score": -0.987811,
+      "label": "negative"
+    }
+  }
+}
+{
+  "sentiment": {
+    "document": {
+      "score": -0.789007,
+      "label": "negative"
+    }
+  }
+}
+{
+  "sentiment": {
+    "document": {
+      "score": -0.988867,
+      "label": "negative"
+    }
+  }
+}
+{
+  "sentiment": {
+    "document": {
+      "score": 0,
+      "label": "neutral"
+    }
+  }
+}
+{
+  "sentiment": {
+    "document": {
+      "score": 0,
+      "label": "neutral"
+    }
+  }
+}
+{
+  "sentiment": {
+    "document": {
+      "score": 0,
+      "label": "neutral"
+    }
+  }
+}
+{
+  "sentiment": {
+    "document": {
+      "score": -0.85072,
+      "label": "negative"
+    }
+  }
+}
+{
+  "sentiment": {
+    "document": {
+      "score": -0.807635,
+      "label": "negative"
+    }
+  }
+}
+{
+  "sentiment": {
+    "document": {
+      "score": 0.498435,
+      "label": "positive"
+    }
+  }
+}
+{
+  "sentiment": {
+    "document": {
+      "score": 0,
+      "label": "neutral"
+    }
+  }
+}
+{
+  "sentiment": {
+    "document": {
+      "score": -0.784674,
+      "label": "negative"
+    }
+  }
+}
+{
+  "sentiment": {
+    "document": {
+      "score": -0.466254,
+      "label": "negative"
+    }
+  }
+}
+{
+  "sentiment": {
+    "document": {
+      "score": 0.509918,
+      "label": "positive"
+    }
+  }
+}
+{
+  "sentiment": {
+    "document": {
+      "score": -0.742098,
+      "label": "negative"
+    }
+  }
+}
+{
+  "sentiment": {
+    "document": {
+      "score": -0.877639,
+      "label": "negative"
+    }
+  }
+}
+{
+  "sentiment": {
+    "document": {
+      "score": 0,
+      "label": "neutral"
+    }
+  }
+}
+{
+  "sentiment": {
+    "document": {
+      "score": 0,
+      "label": "neutral"
+    }
+  }
+}
+{
+  "sentiment": {
+    "document": {
+      "score": -0.390288,
+      "label": "negative"
+    }
+  }
+}
+{
+  "sentiment": {
+    "document": {
+      "score": 0,
+      "label": "neutral"
+    }
+  }
+}
+{
+  "sentiment": {
+    "document": {
+      "score": 0,
+      "label": "neutral"
+    }
+  }
+}
+{
+  "sentiment": {
+    "document": {
+      "score": 0,
+      "label": "neutral"
+    }
+  }
+}
+{
+  "sentiment": {
+    "document": {
+      "score": -0.876076,
+      "label": "negative"
+    }
+  }
+}
+{
+  "sentiment": {
+    "document": {
+      "score": -0.919651,
+      "label": "negative"
+    }
+  }
+}
+{
+  "sentiment": {
+    "document": {
+      "score": -0.892746,
+      "label": "negative"
+    }
+  }
+}
+{
+  "sentiment": {
+    "document": {
+      "score": 0,
+      "label": "neutral"
+    }
+  }
+}
+{
+  "sentiment": {
+    "document": {
+      "score": 0,
+      "label": "neutral"
+    }
+  }
+}
+{
+  "sentiment": {
+    "document": {
+      "score": 0,
+      "label": "neutral"
+    }
+  }
+}
+{
+  "sentiment": {
+    "document": {
+      "score": -0.931784,
+      "label": "negative"
+    }
+  }
+}
+{
+  "sentiment": {
+    "document": {
+      "score": -0.792371,
+      "label": "negative"
+    }
+  }
+}
+{
+  "sentiment": {
+    "document": {
+      "score": -0.986725,
+      "label": "negative"
+    }
+  }
+}
+{
+  "sentiment": {
+    "document": {
+      "score": 0.506311,
+      "label": "positive"
+    }
+  }
+}
+{
+  "sentiment": {
+    "document": {
+      "score": -0.812481,
+      "label": "negative"
+    }
+  }
+}
+{
+  "sentiment": {
+    "document": {
+      "score": -0.85104,
+      "label": "negative"
+    }
+  }
+}
+{
+  "sentiment": {
+    "document": {
+      "score": 0,
+      "label": "neutral"
+    }
+  }
+}
+{
+  "sentiment": {
+    "document": {
+      "score": 0,
+      "label": "neutral"
+    }
+  }
+}
+{
+  "sentiment": {
+    "document": {
+      "score": 0,
+      "label": "neutral"
+    }
+  }
+}
+{
+  "sentiment": {
+    "document": {
+      "score": 0,
+      "label": "neutral"
+    }
+  }
+}
+{
+  "sentiment": {
+    "document": {
+      "score": 0,
+      "label": "neutral"
+    }
+  }
+}
+{
+  "sentiment": {
+    "document": {
+      "score": 0,
+      "label": "neutral"
+    }
+  }
+}
+{
+  "sentiment": {
+    "document": {
+      "score": -0.533168,
+      "label": "negative"
+    }
+  }
+}
+{
+  "sentiment": {
+    "document": {
+      "score": 0,
+      "label": "neutral"
+    }
+  }
+}
+{
+  "sentiment": {
+    "document": {
+      "score": 0,
+      "label": "neutral"
+    }
+  }
+}
+{
+  "sentiment": {
+    "document": {
+      "score": -0.250075,
+      "label": "negative"
+    }
+  }
+}
+{
+  "sentiment": {
+    "document": {
+      "score": -0.846668,
+      "label": "negative"
+    }
+  }
+}
+{
+  "sentiment": {
+    "document": {
+      "score": -0.601455,
+      "label": "negative"
+    }
+  }
+}
+{
+  "sentiment": {
+    "document": {
+      "score": -0.992599,
+      "label": "negative"
+    }
+  }
+}
+{
+  "sentiment": {
+    "document": {
+      "score": -0.800415,
+      "label": "negative"
+    }
+  }
+}
+{
+  "sentiment": {
+    "document": {
+      "score": -0.748526,
+      "label": "negative"
+    }
+  }
+}
+{
+  "sentiment": {
+    "document": {
+      "score": -0.954839,
+      "label": "negative"
+    }
+  }
+}
+{
+  "sentiment": {
+    "document": {
+      "score": 0,
+      "label": "neutral"
+    }
+  }
+}
+{
+  "sentiment": {
+    "document": {
+      "score": 0,
+      "label": "neutral"
+    }
+  }
+}
+{
+  "sentiment": {
+    "document": {
+      "score": 0.340818,
+      "label": "positive"
+    }
+  }
+}
+{
+  "sentiment": {
+    "document": {
+      "score": -0.881502,
+      "label": "negative"
+    }
+  }
+}

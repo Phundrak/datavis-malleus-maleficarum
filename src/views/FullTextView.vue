@@ -1,12 +1,21 @@
 <template>
   <h2>Full text analysis</h2>
-  <h3>Evolution of the general sentiment throughout the text</h3>
+  <h3>Évolution du ressenti général du texte selon IBM</h3>
   <p class="centered-text">
     <img alt="" src="/img/general-emotion.png" />
   </p>
+  <h3>Évolution des émotions détaillées vis-à-vis du texte selon IBM</h3>
   <p class="centered-text">
     <img alt="" src="/img/detailed-emotions.png" />
   </p>
+  <h3>
+    Évolution de la fréquence des cinq mots les plus utilisés dans l’ensemble du
+    texte.
+  </h3>
+  <iframe
+    style="width: 1200px; height: 600px"
+    src="https://voyant-tools.org/tool/Trends/?query=devil&query=god&query=witches&query=men&query=man&mode=document&corpus=28ecfc4db2e082190a2d9225e30d3fb8"
+  ></iframe>
 </template>
 
 <script setup></script>

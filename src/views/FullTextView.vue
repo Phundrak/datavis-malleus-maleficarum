@@ -1,4 +1,14 @@
 <template>
+  <h1>Malleus Maleficarum</h1>
+  <p>Analyse réalisée par Lucien Cartier-Tilet et Guillaume Ertel.</p>
+  <p>
+    Analyse réalisée sur le texte du Malleus Maleficarum, un livre publié en
+    1486 afin de définir ce qu’est la sorcellerie et comment la contrer, et sur
+    sa
+    <a href="https://www.sacred-texts.com/pag/mm/index.htm"
+      >traduction anglaise de 1928</a
+    >.
+  </p>
   <h2>Full text analysis</h2>
   <h3>Évolution du ressenti général du texte selon IBM</h3>
   <p class="centered-text">

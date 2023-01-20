@@ -30,8 +30,8 @@ function init() {
     element.appendChild(number);
     let symbol = document.createElement('div');
     symbol.className = 'symbol';
-    symbol.innerHTML = `<a href="/datavis-malleus-maleficarum/data/fragment/${link.fragment}">
-<img src="/datavis-malleus-maleficarum/img/${link.fragment}.png"/>
+    symbol.innerHTML = `<a href="/fragment/${link.fragment}">
+<img src="/img/${link.fragment}.png"/>
 </a>`;
     element.appendChild(symbol);
     let details = document.createElement('div');

@@ -5,7 +5,7 @@
     via Stable Diffusion
   </p>
   <p class="centered-text">
-    <img alt="" :src="`/datavis-malleus-maleficarum/img/${id}.png`" />
+    <img alt="" :src="`/img/${id}.png`" />
   </p>
 
   <p>Les dix termes les plus communs du texte sont les suivants</p>
@@ -65,7 +65,7 @@
 </template>
 
 <script>
-import emotions from '@/assets/emotions.json';
+import emotions from "@/assets/emotions.json";
 
 export default {
   data() {
@@ -78,10 +78,10 @@ export default {
   },
   mounted() {
     this.emotions = emotions.find((e) => e.fragment == this.id);
-    fetch(`/datavis-malleus-maleficarum/data/fragments/${this.id}.txt`)
+    fetch(`/data/fragments/${this.id}.txt`)
       .then((response) => {
         if (!response.ok) {
-          throw new Error('HTTP error ' + response.status);
+          throw new Error("HTTP error " + response.status);
         }
         return response.text();
       })
@@ -89,27 +89,27 @@ export default {
         this.text = text;
       })
       .catch(function () {
-        console.log('Error trying to fetch content');
+        console.log("Error trying to fetch content");
       });
-    fetch(`/datavis-malleus-maleficarum/data/fragments/${this.id}.txt.csv`)
+    fetch(`/data/fragments/${this.id}.txt.csv`)
       .then((response) => {
         if (!response.ok) {
-          throw new Error('HTTP error ' + response.status);
+          throw new Error("HTTP error " + response.status);
         }
         return response.text();
       })
       .then((text) => {
         this.frequency = text
           .trim()
-          .split('\n')
+          .split("\n")
           .map((line) => {
-            return line.split(',');
+            return line.split(",");
           })
           .sort((a, b) => b[1] - a[1])
           .splice(0, 10);
       })
       .catch(function () {
-        console.log('Error trying to fetch content');
+        console.log("Error trying to fetch content");
       });
   },
 };

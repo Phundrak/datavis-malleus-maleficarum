@@ -20,22 +20,22 @@ function init() {
   scene = new THREE.Scene();
   // table
   links.forEach((link) => {
-    var element = document.createElement("div");
-    element.className = "element";
+    var element = document.createElement('div');
+    element.className = 'element';
     element.style.backgroundColor =
-      "rgba(0,127,127," + (Math.random() * 0.5 + 0.25) + ")";
-    let number = document.createElement("div");
-    number.className = "number";
+      'rgba(0,127,127,' + (Math.random() * 0.5 + 0.25) + ')';
+    let number = document.createElement('div');
+    number.className = 'number';
     number.textContent = link.y;
     element.appendChild(number);
-    let symbol = document.createElement("div");
-    symbol.className = "symbol";
-    symbol.innerHTML = `<a href="/fragment/${link.fragment}">
-<img src="/img/${link.fragment}.png"/>
+    let symbol = document.createElement('div');
+    symbol.className = 'symbol';
+    symbol.innerHTML = `<a href="/datavis-malleus-maleficarum/fragment/${link.fragment}">
+<img src="/datavis-malleus-maleficarum/img/${link.fragment}.png"/>
 </a>`;
     element.appendChild(symbol);
-    let details = document.createElement("div");
-    details.className = "details";
+    let details = document.createElement('div');
+    details.className = 'details';
     details.innerHTML = link.fragment;
     element.appendChild(details);
     var object = new THREE.CSS3DObject(element);
@@ -97,41 +97,41 @@ function init() {
   //
   renderer = new THREE.CSS3DRenderer();
   renderer.setSize(window.innerWidth, window.innerHeight);
-  renderer.domElement.style.position = "absolute";
-  document.getElementById("container").appendChild(renderer.domElement);
+  renderer.domElement.style.position = 'absolute';
+  document.getElementById('container').appendChild(renderer.domElement);
   //
   controls = new THREE.TrackballControls(camera, renderer.domElement);
   controls.rotateSpeed = 0.5;
   controls.minDistance = 500;
   controls.maxDistance = 6000;
-  controls.addEventListener("change", render);
-  var button = document.getElementById("table");
+  controls.addEventListener('change', render);
+  var button = document.getElementById('table');
   button.addEventListener(
-    "click",
+    'click',
     function (event) {
       transform(targets.table, 2000);
     },
     false
   );
-  var button = document.getElementById("sphere");
+  var button = document.getElementById('sphere');
   button.addEventListener(
-    "click",
+    'click',
     function (event) {
       transform(targets.sphere, 2000);
     },
     false
   );
-  var button = document.getElementById("helix");
+  var button = document.getElementById('helix');
   button.addEventListener(
-    "click",
+    'click',
     function (event) {
       transform(targets.helix, 2000);
     },
     false
   );
-  var button = document.getElementById("grid");
+  var button = document.getElementById('grid');
   button.addEventListener(
-    "click",
+    'click',
     function (event) {
       transform(targets.grid, 2000);
     },
@@ -139,7 +139,7 @@ function init() {
   );
   transform(targets.table, 2000);
   //
-  window.addEventListener("resize", onWindowResize, false);
+  window.addEventListener('resize', onWindowResize, false);
 }
 
 function transform(targets, duration) {

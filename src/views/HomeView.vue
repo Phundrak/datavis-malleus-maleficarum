@@ -15,27 +15,30 @@
 </template>
 
 <script setup>
-import { ref, onMounted } from "vue";
+import { ref, onMounted } from 'vue';
 
-const scripts = ["/js/data.js", "/js/index.js"];
+const scripts = [
+  '/datavis-malleus-maleficarum/js/data.js',
+  '/datavis-malleus-maleficarum/js/index.js',
+];
 const menu = ref(null);
 
 onMounted(() => {
-  let script = document.createElement("script");
-  script.setAttribute("type", "text/javascript");
+  let script = document.createElement('script');
+  script.setAttribute('type', 'text/javascript');
   script.text = `(function () {
      window.SIG_EXT = {};
    })();`;
   menu.value.parentElement.parentElement.appendChild(script);
   scripts.forEach((src) => {
-    let script = document.createElement("script");
-    script.setAttribute("src", src);
+    let script = document.createElement('script');
+    script.setAttribute('src', src);
     menu.value.parentElement.parentElement.append(script);
   });
 });
 
 const gofulltext = () => {
-  console.log("go full text");
+  console.log('go full text');
 };
 </script>
 
